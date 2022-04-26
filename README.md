@@ -15,7 +15,7 @@ import hashlib
 
 
 ## Streamlit screenshot
-![blockchain validation](/StreamlitSCreenShot.jpg "blockchain")
+![blockchain validation](../StreamlitScreenShot.jpg "blockchain")
 
 
 ## sources
