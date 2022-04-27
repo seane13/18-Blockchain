@@ -15,7 +15,7 @@ The concept of this ledger is to allow partner banks to conduct financial transa
 
 
 ## Streamlit screenshot
-![blockchain validation](../StreamlitScreenShot.jpg)
+![blockchain validation](StreamlitScreenShot.jpg)
 
 
 ## sources
